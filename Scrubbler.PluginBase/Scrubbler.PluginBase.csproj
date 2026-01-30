@@ -33,6 +33,7 @@
 
   <ItemGroup>
     <PackageReference Include="Uno.Microsoft.Xaml.Behaviors.WinUI.Managed" />
+    <PackageReference Include="Uno.Microsoft.Xaml.Behaviors.Interactivity.WinUI" />
     <PackageReference Include="CommunityToolkit.Mvvm" />
     <PackageReference Include="WinUI.TableView" />
   </ItemGroup>
